@@ -23,5 +23,9 @@
     "Hebrew": "Hebrew",
     "General": "General",
     "Business Application": "Business Application",
-    "Read More": "Read More"
+    "Read More": "Read More",
+    "Hello": "Hello",
+    "menu": {
+        "Chat analytics": ""
+    }
 }
