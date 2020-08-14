@@ -1,14 +1,14 @@
 {
     "Chat": "צ'אט",
-    "Visitors": "",
-    "Inbox": "",
-    "Customization": "",
-    "Email Marketing": "",
-    "Knowledge Base": "",
+    "Visitors": "מבקרים",
+    "Inbox": "הודעות",
+    "Customization": "התאמה אישית",
+    "Email Marketing": "דיוור אלקטרוני",
+    "Knowledge Base": "מרכז הדרכה",
     "Hebrew": "עִברִית",
-    "General": "",
-    "Read More": "",
+    "General": "כללי",
+    "Read More": "קרא עוד",
     "Chat Analytics": "אנליטיקות",
     "Analytics": "אנליטיקות",
-    "Users": ""
+    "Users": "משתמשים"
 }
