@@ -58,5 +58,8 @@
     "With script": "עם סקריפט",
     "OR Install for": "התקן עבור",
     "Members": "חברי צוות",
-    "Add member": "הוסף חבר צוות"
+    "Add member": "הוסף חבר צוות",
+    "Secret invitation link": "שליחת לינק סודי",
+    "Anyone with this secret link can join your project": "כל משתמש עם הלינק יוכל להצטרף לפרויקט",
+    "Accept": "שלח"
 }
