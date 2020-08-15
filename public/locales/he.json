@@ -42,5 +42,21 @@
     "Button action": "כפתור פעולה",
     "Send us a message": "שלח לנו הודעה",
     "Upload file": "העלאת קובץ",
-    "visitor": "מבקר"
+    "visitor": "מבקר",
+    "Projects": "פרויקטים",
+    "Manage projects and roles": "ניהול פרויקטים והרשאות",
+    "Team": "צוות",
+    "Manage team members": "ניהול חברי צוות",
+    "Account": "חשבון",
+    "Manage account profile": "ניהול פרופיל החשבון",
+    "Plans": "פרימיום",
+    "Get more from appsy": "תוכניות פרימיום",
+    "Billing": "תשלומים",
+    "Payments and invoices": "תשלומים וחשבוניות",
+    "Add new project": "הוספת פרויקט חדש",
+    "Setup": "התקנה",
+    "With script": "עם סקריפט",
+    "OR Install for": "התקן עבור",
+    "Members": "חברי צוות",
+    "Add member": "הוסף חבר צוות"
 }
