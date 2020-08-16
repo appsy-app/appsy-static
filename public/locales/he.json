@@ -64,5 +64,17 @@
     "Accept": "שלח",
     "Created": "נוצר ב",
     "Just now": "ברגע זה",
-    "Sent a chat message": "שלח הודעת צ'אט"
+    "Sent a chat message": "שלח הודעת צ'אט",
+    "Last seen": "נראה לאחרונה",
+    "Number of visits": "מספר ביקורים",
+    "Average session": "ביקור ממוצע",
+    "show more...": "הצג עוד...",
+    "Enter name...": "הכנס שם...",
+    "Name": "שם",
+    "Enter email...": "הכנס אימייל...",
+    "Email": "אימייל",
+    "Enter phone...": "הכנס טלפון...",
+    "Phone": "טלפון",
+    "Enter address...": "הכנס כתובת...",
+    "Address": "כתובת"
 }
