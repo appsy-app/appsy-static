@@ -87,5 +87,13 @@
     "Chat side": "צד הצ'אט",
     "Open chat icon": "אייקון פתיחת צ'אט",
     "Appsy branding": "מיתוג Appsy",
-    "Start open": "התחל פתוח"
+    "Start open": "התחל פתוח",
+    "Select": "בחר",
+    "New flow name": "שם תסריט חדש",
+    "Flows": "תסריטים",
+    "Add new flow": "הוסף תסריט",
+    "Delete current flow": "מחק תסריט נוכחי",
+    "Rename current flow": "שנה שם לתסריט",
+    "No condition": "ללא תנאים",
+    "Reload flow": "טען מחדש תסריט"
 }
