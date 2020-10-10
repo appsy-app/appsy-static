@@ -97,7 +97,14 @@
     "No condition": "ללא תנאים",
     "Reload flow": "טען מחדש תסריט",
     "Welcome back": "ברוכים השבים",
-    "Sign in to continue": "התחבר כדי להמשיך",
-    "Continue with Google": "המשך עם גוגל",
-    "Continue with Facebook": "המשך עם פייסבוק"
+    "Sign in to continue": "התחברו כדי להמשיך",
+    "Continue with Google": "התחברות עם גוגל",
+    "Continue with Facebook": "התחברות עם פייסבוק",
+    "Settings": "הגדרות",
+    "Display name": "שם תצוגה",
+    "Notifications": "נוטיפיקציות",
+    "Language": "שפה",
+    "On any update": "בכל עדכון",
+    "Moderate": "באופן מתון",
+    "Off": "כבוי"
 }
