@@ -95,5 +95,9 @@
     "Delete current flow": "מחק תסריט נוכחי",
     "Rename current flow": "שנה שם לתסריט",
     "No condition": "ללא תנאים",
-    "Reload flow": "טען מחדש תסריט"
+    "Reload flow": "טען מחדש תסריט",
+    "Welcome back": "ברוכים השבים",
+    "Sign in to continue": "התחבר כדי להמשיך",
+    "Continue with Google": "המשך עם גוגל",
+    "Continue with Facebook": "המשך עם פייסבוק"
 }
